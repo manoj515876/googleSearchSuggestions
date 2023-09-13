@@ -1,0 +1,21 @@
+.list-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+}
+
+.card-btn {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.arrow-img {
+  height: 20px;
+  width: 20px;
+}
